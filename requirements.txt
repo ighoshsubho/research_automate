@@ -1,0 +1,8 @@
+langchain
+crewai
+langchain-google-genai
+langchain-groq
+python-dotenv
+praw
+resend
+Markdown
