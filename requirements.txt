@@ -1,8 +1,7 @@
-langchain
-crewai
-langchain-google-genai
+langchain==0.1.12
+crewai==0.22.5
 langchain-groq
-python-dotenv
-praw
-resend
-Markdown
+python-dotenv==1.0.1
+praw==7.7.1
+resend==0.8.0
+Markdown==3.6

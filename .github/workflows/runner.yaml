@@ -19,6 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          sudo pip install -U setuptools
           pip install -r requirements.txt
 
       - name: Run Python script
